@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/is-subsequence/
 function isSubsequence(s: string, t: string): boolean {
   if(s === "") return true;
   if(t === "") return false;

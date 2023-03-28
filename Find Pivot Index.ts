@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/find-pivot-index/
 function pivotIndex(nums: number[]): number {
   let count = -1;
   for(let i=0; i<nums.length; i++) {

@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/isomorphic-strings/
 function isIsomorphic(s: string, t: string): boolean {
   const sArray = s.split("");
   const tArray = t.split("");
